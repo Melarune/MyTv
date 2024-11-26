@@ -1,7 +1,5 @@
 🎬影视轮播,#genre#
-
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
-周星驰,http://zby.xjqxz.top/live12/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 五福星,http://159.75.85.63:35455/huya/11282233
