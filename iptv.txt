@@ -1,3 +1,37 @@
+🎬影视轮播,#genre#
+
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
+五福星,http://159.75.85.63:35455/huya/11282233
+周星驰,http://159.75.85.63:35455/huya/11342412
+成龙,http://159.75.85.63:35455/huya/11342386
+成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
+周润发,http://159.75.85.63:35455/huya/11342387
+李连杰,http://159.75.85.63:35455/huya/11342390
+邱淑贞,http://159.75.85.63:35455/huya/11352949
+刘德华,http://159.75.85.63:35455/huya/11342424
+林正英,http://159.75.85.63:35455/huya/11342421
+徐峥,http://159.75.85.63:35455/huya/11602043
+沈腾,http://159.75.85.63:35455/huya/11601968
+古天乐,http://159.75.85.63:35455/huya/11602041
+洪金宝,http://159.75.85.63:35455/huya/11279251
+徐克,http://159.75.85.63:35455/huya/11352909
+黄渤,http://159.75.85.63:35455/huya/11352876
+电影_星爷,http://159.75.85.63:35455/huya/11342412
+电影_英叔,http://159.75.85.63:35455/huya/11342421
+电影_发哥,http://159.75.85.63:35455/huya/11342387
+电影_成龙,http://159.75.85.63:35455/huya/11342386
+电影_王晶,http://159.75.85.63:35455/huya/11602058
+电影_沈腾,http://159.75.85.63:35455/huya/11601968
+电影_黄渤,http://159.75.85.63:35455/huya/11352876
+电影_强森,http://159.75.85.63:35455/huya/21059581
+林正英,http://159.75.85.63:35455/douyu/218859
+林正英,http://159.75.85.63:35455/douyu/7356023
+
+
+
 📺央视「IPV6」,#genre#
 CCTV1 综合「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV2 财经「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
@@ -23,7 +57,7 @@ CETV 1 中国教育「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6
 CETV 4 中国教育「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 CGTN「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IASHttpSessionId=
 
-•卫视「IPV6」,#genre#
+📺卫视「IPV6」,#genre#
 湖南卫视「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
 浙江卫视「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId=
 江苏卫视「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8?IASHttpSessionId=
@@ -50,3 +84,4 @@ CGTN「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_ca
 云南卫视「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId=
 甘肃卫视「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId=
 青海卫视「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId=
+
