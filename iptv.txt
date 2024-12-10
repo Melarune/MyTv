@@ -3,32 +3,63 @@
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 五福星,http://159.75.85.63:35455/huya/11282233
+五福星,https://www.goodiptv.club/huya/11282233
 周星驰,http://159.75.85.63:35455/huya/11342412
+周星驰,https://www.goodiptv.club/huya/11342412
+周星驰,https://www.goodiptv.club/douyu/122402
+周星驰_粤语,https://www.goodiptv.club/huya/11336587
 成龙,http://159.75.85.63:35455/huya/11342386
+成龙,https://www.goodiptv.club/huya/11342386
 成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
 周润发,http://159.75.85.63:35455/huya/11342387
+周润发,https://www.goodiptv.club/huya/11342387
 李连杰,http://159.75.85.63:35455/huya/11342390
 邱淑贞,http://159.75.85.63:35455/huya/11352949
+邱淑贞,https://www.goodiptv.club/huya/11352949
 刘德华,http://159.75.85.63:35455/huya/11342424
+刘德华,https://www.goodiptv.club/huya/11342424
 林正英,http://159.75.85.63:35455/huya/11342421
+林正英,https://www.goodiptv.club/huya/zhubodandan
+林正英,https://www.goodiptv.club/huya/25129377
 徐峥,http://159.75.85.63:35455/huya/11602043
 沈腾,http://159.75.85.63:35455/huya/11601968
+沈腾,https://www.goodiptv.club/huya/11601968
 古天乐,http://159.75.85.63:35455/huya/11602041
 洪金宝,http://159.75.85.63:35455/huya/11279251
+洪金宝,https://www.goodiptv.club/huya/11279251
 徐克,http://159.75.85.63:35455/huya/11352909
 黄渤,http://159.75.85.63:35455/huya/11352876
-电影_星爷,http://159.75.85.63:35455/huya/11342412
-电影_英叔,http://159.75.85.63:35455/huya/11342421
-电影_发哥,http://159.75.85.63:35455/huya/11342387
-电影_成龙,http://159.75.85.63:35455/huya/11342386
+王宝强,https://www.goodiptv.club/huya/30080251
+甄子丹,https://www.goodiptv.club/huya/11352935
+古天乐,https://www.goodiptv.club/huya/29982675
+狄仁杰系列,https://www.goodiptv.club/huya/30080229
 电影_王晶,http://159.75.85.63:35455/huya/11602058
-电影_沈腾,http://159.75.85.63:35455/huya/11601968
 电影_黄渤,http://159.75.85.63:35455/huya/11352876
 电影_强森,http://159.75.85.63:35455/huya/21059581
 林正英,http://159.75.85.63:35455/douyu/218859
+林正英,https://www.goodiptv.club/douyu/218859
+林正英,https://www.goodiptv.club/douyu/8009547
 林正英,http://159.75.85.63:35455/douyu/7356023
 
+🎬经典剧场,#genre#
+爱情公寓,https://www.goodiptv.club/huya/11336726
+倚天屠龙记,https://www.goodiptv.club/huya/27834853
+鬼吹灯,https://www.goodiptv.club/huya/30252446
+天龙八部,https://www.goodiptv.club/huya/20985816
+家有儿女,https://www.goodiptv.club/huya/11352872
+神探狄仁杰,https://www.goodiptv.club/huya/11352958
+神雕侠女,https://www.goodiptv.club/huya/11352964
+还珠格格,https://www.goodiptv.club/huya/30080241
+宋小宝小品,https://www.goodiptv.club/douyu/9817729
+贾玲小品,,https://www.goodiptv.club/douyu/10419541
 
+🎬经典动漫,#genre#
+蜡笔小新,https://www.goodiptv.club/huya/30362138
+柯南,https://www.goodiptv.club/huya/30080236
+神奇宝贝,https://www.goodiptv.club/huya/29465874
+火影忍者,https://www.goodiptv.club/huya/11342385
+Q版三国,https://www.goodiptv.club/huya/29465871
+开心锤锤,https://www.goodiptv.club/douyu/9018297
 
 📺央视「IPV6」,#genre#
 CCTV1 综合「IPV6」,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
