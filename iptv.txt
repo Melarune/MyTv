@@ -2,31 +2,36 @@
 成龙,http://zby.xjqxz.top/cldy/live.m3u8
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-五福星,http://159.75.85.63:35455/huya/11282233
-五福星,https://www.goodiptv.club/huya/11282233
-周星驰,http://159.75.85.63:35455/huya/11342412
-周星驰,https://www.goodiptv.club/huya/11342412
-周星驰,https://www.goodiptv.club/douyu/122402
+五福星①,http://159.75.85.63:35455/huya/11282233
+五福星②,https://www.goodiptv.club/huya/11282233
+周星驰①,http://159.75.85.63:35455/huya/11342412
+周星驰②,https://www.goodiptv.club/huya/11342412
+周星驰③,https://www.goodiptv.club/douyu/122402
 周星驰_粤语,https://www.goodiptv.club/huya/11336587
-成龙,http://159.75.85.63:35455/huya/11342386
-成龙,https://www.goodiptv.club/huya/11342386
-成龙,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
-周润发,http://159.75.85.63:35455/huya/11342387
-周润发,https://www.goodiptv.club/huya/11342387
-李连杰,http://159.75.85.63:35455/huya/11342390
-邱淑贞,http://159.75.85.63:35455/huya/11352949
-邱淑贞,https://www.goodiptv.club/huya/11352949
-刘德华,http://159.75.85.63:35455/huya/11342424
-刘德华,https://www.goodiptv.club/huya/11342424
-林正英,http://159.75.85.63:35455/huya/11342421
-林正英,https://www.goodiptv.club/huya/zhubodandan
-林正英,https://www.goodiptv.club/huya/25129377
+成龙①,http://159.75.85.63:35455/huya/11342386
+成龙②,https://www.goodiptv.club/huya/11342386
+成龙③,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
+周润发①,http://159.75.85.63:35455/huya/11342387
+周润发②,https://www.goodiptv.club/huya/11342387
+李连杰①,http://159.75.85.63:35455/huya/11342390
+李连杰②,https://www.goodiptv.club/huya/11342390
+邱淑贞①,http://159.75.85.63:35455/huya/11352949
+邱淑贞②,https://www.goodiptv.club/huya/11352949
+刘德华①,http://159.75.85.63:35455/huya/11342424
+刘德华②,https://www.goodiptv.club/huya/11342424
+林正英①,http://159.75.85.63:35455/huya/11342421
+林正英②,https://www.goodiptv.club/huya/zhubodandan
+林正英③,https://www.goodiptv.club/huya/25129377
+林正英④,http://159.75.85.63:35455/douyu/218859
+林正英⑤,https://www.goodiptv.club/douyu/218859
+林正英⑥,https://www.goodiptv.club/douyu/8009547
+林正英⑦,http://159.75.85.63:35455/douyu/7356023
 徐峥,http://159.75.85.63:35455/huya/11602043
-沈腾,http://159.75.85.63:35455/huya/11601968
-沈腾,https://www.goodiptv.club/huya/11601968
+沈腾①,http://159.75.85.63:35455/huya/11601968
+沈腾②,https://www.goodiptv.club/huya/11601968
 古天乐,http://159.75.85.63:35455/huya/11602041
-洪金宝,http://159.75.85.63:35455/huya/11279251
-洪金宝,https://www.goodiptv.club/huya/11279251
+洪金宝①,http://159.75.85.63:35455/huya/11279251
+洪金宝②,https://www.goodiptv.club/huya/11279251
 徐克,http://159.75.85.63:35455/huya/11352909
 黄渤,http://159.75.85.63:35455/huya/11352876
 王宝强,https://www.goodiptv.club/huya/30080251
@@ -36,10 +41,6 @@
 电影_王晶,http://159.75.85.63:35455/huya/11602058
 电影_黄渤,http://159.75.85.63:35455/huya/11352876
 电影_强森,http://159.75.85.63:35455/huya/21059581
-林正英,http://159.75.85.63:35455/douyu/218859
-林正英,https://www.goodiptv.club/douyu/218859
-林正英,https://www.goodiptv.club/douyu/8009547
-林正英,http://159.75.85.63:35455/douyu/7356023
 
 🎬经典剧场,#genre#
 爱情公寓,https://www.goodiptv.club/huya/11336726
