@@ -7,7 +7,7 @@
 周星驰①,https://www.goodiptv.club/huya/11342412
 周星驰②,https://www.goodiptv.club/douyu/122402
 周星驰_粤语,https://www.goodiptv.club/huya/11336587
-林正英①,https://www.goodiptv.club/huya/zhubodandan
+林正英①,https://www.goodiptv.club/huya/396734
 林正英②,https://www.goodiptv.club/huya/25129377
 林正英③,https://www.goodiptv.club/douyu/218859
 林正英④,https://www.goodiptv.club/douyu/8009547
@@ -27,7 +27,7 @@
 周星驰①,https://live.iill.top/huya/11342412
 周星驰②,https://live.iill.top/douyu/122402
 周星驰_粤语,https://live.iill.top/huya/11336587
-林正英①,https://live.iill.top/huya/zhubodandan
+林正英①,https://live.iill.top/huya/396734
 林正英②,https://live.iill.top/huya/25129377
 林正英③,https://live.iill.top/douyu/218859
 林正英④,https://live.iill.top/douyu/8009547
@@ -47,7 +47,7 @@
 周星驰①,http://dns.yiandrive.com:16813/huya/11342412
 周星驰②,http://dns.yiandrive.com:16813/douyu/122402
 周星驰_粤语,http://dns.yiandrive.com:16813/huya/11336587
-林正英①,http://dns.yiandrive.com:16813/huya/zhubodandan
+林正英①,http://dns.yiandrive.com:16813/huya/396734
 林正英②,http://dns.yiandrive.com:16813/huya/25129377
 林正英③,http://dns.yiandrive.com:16813/douyu/218859
 林正英④,http://dns.yiandrive.com:16813/douyu/8009547
